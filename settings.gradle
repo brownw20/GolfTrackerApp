@@ -1,0 +1,2 @@
+rootProject.name='Golf Tracker App - Final Project'
+include ':app'
